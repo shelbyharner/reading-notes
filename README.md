@@ -10,4 +10,4 @@
   - Focus on the feeling of learning and accomplishing. It helps me to feel energized and then be more proactive at my tasks. 
  
  
- [kissclipart-creative-writing-brain-clipart-your-creative-brain-9c3d599ecf90dda4.png]
+ ![Creative Brain](kissclipart-creative-writing-brain-clipart-your-creative-brain-9c3d599ecf90dda4.png)
