@@ -10,3 +10,5 @@ Commands to remember:
    - The -m specifies the message to be included in the commit, git commit is the button to take snapshot
  - ">git push origin master" (syncs our changes to the code to our repo on GitHub)
  - "git remote -v" tells you what remote git you are working on on your local machine
+ - "git fetch" asks the repo if there are any changes/what is the current status
+ - "git pull" tells terminal to pull in changes if there are any from the fetch
