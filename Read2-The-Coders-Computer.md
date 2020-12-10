@@ -10,11 +10,13 @@ Features to look for in a text editor:
  4. A good variety of extensions to choose from if/when you need them. 
 
 ##Choosing a Text Editor
- What are the different classifications of text editors, and why is it important for software developers to be thoughtful about their selection of what they use to write code?
-Comparison of text editors: 
- - Basic text editor:
- - Coding-specific text editor:
- - IDE:
 
- - Every computer comes with a built in text editor: Mac has Text Edit, Windows has Notepad
+What are the different classifications of text editors, and why is it important for software developers to be thoughtful about their selection of what they use to write code?
+
+Comparison of text editors: 
+ - Basic text editor: Likely comes pre-installed on your computer, uses only plain text with no formatting. 
+ - Coding-specific text editor: Software that you download onto your computer for more robust functions. Can depend on your operating system and what code language you are working with. (We use Visual Studio Code in this class)
+ - IDE (Integrated Development Environment): An IDE is one program for all functions. (Text editor, file manager, compiler and debugger)
+
+ * Every computer comes with a built in text editor: Mac has Text Edit, Windows has Notepad
 
