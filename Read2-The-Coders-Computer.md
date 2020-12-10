@@ -15,8 +15,20 @@ What are the different classifications of text editors, and why is it important 
 
 Comparison of text editors: 
  - Basic text editor: Likely comes pre-installed on your computer, uses only plain text with no formatting. 
- - Coding-specific text editor: Software that you download onto your computer for more robust functions. Can depend on your operating system and what code language you are working with. (We use Visual Studio Code in this class)
+ - Coding-specific text editor: Software that you download onto your computer for more robust functions. Can depend on your operating system and what code language you are working with. (Visual Studio Code for this class. Others include Atom, NotePad++, Brackets, Sublime Text, etc.)
  - IDE (Integrated Development Environment): An IDE is one program for all functions. (Text editor, file manager, compiler and debugger)
 
  * Every computer comes with a built in text editor: Mac has Text Edit, Windows has Notepad
+ 
+What is terminal? 
+ 
+  - Terminal is the command line and text based communication to the system. (ex. macOS)
+    - This is how we "talk" to the computer for it to complete commands or find things for us. 
+  - Opening terminal on my mac: applications > utilities > terminal
+  - Bash is an abbreviation for "Bourne again shell"
+  - We can find out what shell we are using by using the "echo" command
+  
+Cheat-sheet/vocab: 
+
+  - 
 
