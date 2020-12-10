@@ -30,5 +30,13 @@ What is terminal?
   
 Cheat-sheet/vocab: 
 
-  - 
+  - pwd = print working directory (where are we working currently)
+  - ls = short for list (contents of directory)
+  - Path = a file or directory on the command line (command to find a file or directory on the system)
+  - Tilde (~) = home directory
+  - Dot (.) = current directory
+  - DotDot (..) = parent directory
+  - cd = change directory (move to a different directory)
+  
+  
 
