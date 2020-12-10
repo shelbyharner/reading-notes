@@ -10,4 +10,9 @@
   - Focus on the feeling of learning and accomplishing. It helps me to feel energized and then be more proactive at my tasks. 
  
  More about me: [Hello it's Shelby](https://shelbyharner.github.io/Hello-its-Shelby/)
+ Shelby's GitHub: [Shelby's Super Sweet Profile](https://github.com/shelbyharner)
+ 
+ Jump to: [Session 2 Reading Notes](Read2-The-Coders-Computer.md)
+ Slide to: [Session 3 Reading Notes]
+ 
  ![Creative Brain](kissclipart-creative-writing-brain-clipart-your-creative-brain-9c3d599ecf90dda4.png)
