@@ -11,3 +11,9 @@ CSS allows you to create rules that will specify how the content of the the webp
     - Descendant selector: matches an element that is a descendent of another specified element (not only a direct child) (ex. p a {})
     - Adjacent sibling selector: matches an element that is the next sibling of another (ex. h1+p)
     - General sibling selector:  matches an element that is a sibling of another but it doesn't have to be the directly preceding element (ex. h1~p)
+
+CSS treats HTML elements as if they were in their own box and uses rules to indicate how the elements should look. 
+
+CSS rules usually go in their own document, however they can also appear within the HTML document. 
+
+
