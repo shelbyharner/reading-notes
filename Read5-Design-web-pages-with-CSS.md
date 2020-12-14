@@ -16,4 +16,10 @@ CSS treats HTML elements as if they were in their own box and uses rules to indi
 
 CSS rules usually go in their own document, however they can also appear within the HTML document. 
 
-
+## CSS Color Codes
+    - RGB Value (Values for red/green/blue expressed as numbers between 0-255)
+    - Hex Codes (Values for red/green/blue in dexadecimal code - #xxyyzz)
+    - Color names are preset to be used but are very limited in options
+    - Hue shade of a color, can be saturation and brighness
+    - Saturation is the amount of grey in a color
+    - Brightness is how much black is in the color
