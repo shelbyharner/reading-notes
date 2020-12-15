@@ -19,3 +19,15 @@ A script is a series of instructions that the computer follows to achieve a goal
         * Operators are: + for addition, - for subtraction, / for division, * for multiplication, etc.
         * var message = greeting + name +!
 
+## Functions, Methods, Objects
+    -  A function is a series of statements grouped together to perform a specific task. 
+    - A method is the same as a function, however a method is created within an object.
+    - An object is a grouping of a set of variables. 
+
+function sayGreeting() {
+    document.write('Hello');
+}
+
+"function" - declaring keyword
+"sayGreeting()" - name of the function
+The statement inside of the curly brackets is the action the statement performs.
