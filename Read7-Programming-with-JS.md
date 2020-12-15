@@ -12,3 +12,10 @@ A script is a series of instructions that the computer follows to achieve a goal
     1 - Design the script (split the goal into a series of tasks, can use a flowchart or a step by step)
     1 - Code each step (break down the steps in a coding language - JS- that the computer can understand)
 
+    - Expression: An expression results in a single value. Can be a color indication or a simple equation.
+        * var color = 'red'
+        * var area = 3 + 2
+    - Expressions rely on operators. This is the ability to create a single value from multiple variables.
+        * Operators are: + for addition, - for subtraction, / for division, * for multiplication, etc.
+        * var message = greeting + name +!
+
