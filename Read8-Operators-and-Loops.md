@@ -10,3 +10,9 @@
   - ">=" greater than or equal to
   - "<=" less than or equal to
 
+## Logical Operators
+Comparison operators usually compare single values of true/false (boolean), but logical operators compare the results of more than one comparison operator.
+  - && is logical and: operator tests more than one condition
+  - || is logical or: operator tests at least one condition
+  - ! is logical not: operator takes a single boolean value and inverts it
+
