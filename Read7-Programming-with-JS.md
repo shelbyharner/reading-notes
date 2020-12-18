@@ -8,9 +8,9 @@ A script is a series of instructions that the computer follows to achieve a goal
     - Or a step by step test check. One test must be passed before moving on to the next step.
 
 ## Writing a script:
-    1 - Define the goal (define the task you want to have completed)
-    1 - Design the script (split the goal into a series of tasks, can use a flowchart or a step by step)
-    1 - Code each step (break down the steps in a coding language - JS- that the computer can understand)
+  - Define the goal (define the task you want to have completed)
+  - Design the script (split the goal into a series of tasks, can use a flowchart or a step by step)
+  - Code each step (break down the steps in a coding language - JS- that the computer can understand)
 
     - Expression: An expression results in a single value. Can be a color indication or a simple equation.
         * var color = 'red'
@@ -20,9 +20,9 @@ A script is a series of instructions that the computer follows to achieve a goal
         * var message = greeting + name +!
 
 ## Functions, Methods, Objects
-    -  A function is a series of statements grouped together to perform a specific task. 
-    - A method is the same as a function, however a method is created within an object.
-    - An object is a grouping of a set of variables. 
+  -  A function is a series of statements grouped together to perform a specific task. 
+  - A method is the same as a function, however a method is created within an object.
+  - An object is a grouping of a set of variables. 
 
 function sayGreeting() {
     document.write('Hello');
@@ -30,4 +30,4 @@ function sayGreeting() {
 
 "function" - declaring keyword
 "sayGreeting()" - name of the function
-The statement inside of the curly brackets is the action the statement performs.
+  - The statement inside of the curly brackets is the action the statement performs.
