@@ -1,8 +1,8 @@
-#Revisions and the Cloud
+# Revisions and the Cloud
 
 **Best practice:** Always do small, frequent commits. Not large/many changes in one commit. Easier and faster to find/track/fix.  
 
-##Commands to remember: 
+## Commands to remember: 
  - Type: git status (shows what changed and status of change)
  - Type: code
  - Type: git add README.md (tells git what changes to move to the staging area to commit)
