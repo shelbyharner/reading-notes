@@ -1,7 +1,7 @@
 # Shelby's reading-notes
 
 ## Code 201 Reading Notes Table of Contents
-  - [**Read** 1 - Introductory HTML and JavaScript]
+  - [**Read 1** - Introductory HTML and JavaScript]
   - [**Read 2** - HTML Text, CSS Introduction, and Basic JavaScript Instructions]
   - [**Read 3** - HTML Lists, CSS Boxes, JS Control Flow]
   - [**Read 4** - HTML Links, CSS Layout, JS Functions]
