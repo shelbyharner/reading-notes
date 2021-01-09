@@ -1,6 +1,6 @@
 # Shelby's reading-notes
 
-## Code 201 Table of Contents
+## Code 201 Reading Notes Table of Contents
   - [Read 1 - Introductory HTML and JavaScript]
   - [Read 2 - HTML Text, CSS Introduction, and Basic JavaScript Instructions]
   - [Read 3 - HTML Lists, CSS Boxes, JS Control Flow]
@@ -18,7 +18,7 @@
   - [Read 14b - What Google Learned About Teams]
 
 
-## Code 102 Table of Contents
+## Code 102 Reading Notes Table of Contents
   - [Session 1 Reading Notes - Learning Markdown](Read1-Learning-Markdown.md)
   - [Session 2 Reading Notes - The Coder's Computer](Read2-The-Coders-Computer.md)
   - [Session 3 Reading Notes - Revisions and the Cloud](Read3-Revisions-and-the-Cloud.md)
