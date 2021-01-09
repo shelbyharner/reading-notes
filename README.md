@@ -32,3 +32,5 @@
 ## Extra Fun Things
   - [Shelby's Super Sweet Profile](https://github.com/shelbyharner)
   - [Hello it's Shelby - Bio](https://shelbyharner.github.io/Hello-its-Shelby/)
+
+![My recent favorite cross stitch project](Bee Cross Stitch.JPG)
