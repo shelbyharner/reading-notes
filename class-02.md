@@ -20,4 +20,27 @@
   - value: specifys setting (which color)
   - external CSS: lives in its own cs document, must link in HTML
   - internal CSS: written inside of HTML doc, placed inside a style tag
+
+*Duckett JavaScript Book*
+  - script: series of JS statements
+  - statement: one step in the process/recipe
+  - variable: (var) used to temporarily store pieces of information in a script
+  - array: specific type of variable, stores multiple pieces of information
+  - JavaScript: 
+    - distinguishes numbers (0-9)
+    - strings (text/statements)
+    - boolean values (true/false)
+  - Expressions rely on operators to calculate a single value
+  - Decision: depending on the result of an evaluation, a decision decides what path your script goes down
+  - Loop: runs the same script (set of steps) multiple times
+
+  - Comparison Operators:
+    - ==: is equal to
+    - !=: is not equal to
+    - ===: strict equal to
+    - !==: strict not equal to
+    - >: greater than
+    - <: less than
+    - >=: greater than or equal to
+    - <=: less than or equal to
   
