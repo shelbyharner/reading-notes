@@ -39,8 +39,8 @@
     - !=: is not equal to
     - ===: strict equal to
     - !==: strict not equal to
-    - >: greater than
+    - `>: greater than
     - <: less than
-    - >=: greater than or equal to
+    - `>=: greater than or equal to
     - <=: less than or equal to
   
