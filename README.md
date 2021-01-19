@@ -4,7 +4,7 @@
   - [**Read 1** - Introductory HTML and JavaScript](class-01.md)
   - [**Read 2** - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
   - [**Read 3** - HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
-  - [**Read 4** - HTML Links, CSS Layout, JS Functions]
+  - [**Read 4** - HTML Links, CSS Layout, JS Functions](class-04.md)
   - [**Read 5** - HTML Images; CSS Color & Text]
   - [**Read 6** - JS Object Literals; The DOM]
   - [**Read 7** - HTML Tables; JS Constructor Functions]
