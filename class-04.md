@@ -25,3 +25,15 @@
   - div element: used to contain elements or group together sections on a page
 
 *Duckett JS Book*
+
+  - function: groups a series of statements to perform a task (helps with code organization)
+  - to create a function, you must first name it and then code the statements that will happen when it is called
+  - parameter: variables
+  - argument: the information needed to calculate the variables
+  - functions can calculate a single value, such as width and height
+  - functions can calculate multiple values at one time, such as the area and volume of a box
+
+*Pair Programming*
+
+  - Pair programming is when one person "drives" by typing the code and the other person "navigates" by describing what to write, focusing on the bigger picture and utilizes their own screen to assist in looking up reference items
+  - There are four things that go into the fundamentals of learning, listening, speaking, reading and writing
