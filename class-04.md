@@ -2,7 +2,7 @@
 
 *Duckett HTML Book*
   - Links are created by using the a tag in HTML
-    - (<a href="webpage link here">what you want the link to say in your doc</a>)
+    - ("open a tag" href="webpage link here">what you want the link to say in your doc "close a tag")
   - Links can also be utilized to link pages of the same site
 
   **Link types:**
