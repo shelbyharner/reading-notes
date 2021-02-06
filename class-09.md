@@ -34,3 +34,14 @@
 
 
 *Duckett Javascript Book*
+
+## Events
+  - UI events: a user interacting with a webpage
+  - Keyboard events: user must utilize the keyboard to interact with the webpage
+  - Mouse events: user must utilize the mouse, trackpad or touchscreed to interact with the webpage
+  - Focus events: occurrs when an element gains/loses focus
+  - Form events: user interacting with a form on the webpage
+  - Mutation events: when the DOM structure has been changed by a script
+
+  - Event bubbling: event starts at the most specific node and flows outward to the least specific
+  - Event capturing: event starts at the least specific node and flows in to the most specific
