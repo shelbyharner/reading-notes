@@ -10,7 +10,7 @@
   - [**Read 7** - HTML Tables; JS Constructor Functions](class-07.md)
   - [**Read 8** - More CSS Layout](class-08.md)
   - [**Read 9** - Forms and Events](class-09.md)
-  - [**Read 10** - JS Debugging]
+  - [**Read 10** - JS Debugging](class-10.md)
   - [**Read 11** - Assorted Topics]
   - [**Read 12** - Docs for the HTML <canvas> Element & Chart.js]
   - [**Read 13** - Local Storage]
