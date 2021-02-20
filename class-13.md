@@ -35,3 +35,7 @@
     - store and retrieved by the same key word
     - data can be anything supported by JS (string, boolean, integer, float)
     - data is stored as a string
+  - localStorage.setItem - to store an item
+  - localStorage.getItem - to retrieve an item
+  - clear() to remove all items from storage
+  - You can track changes using a StorageEvent object
