@@ -23,4 +23,13 @@ ReactDOM.render(
 ````
 
 ## Introducing JSX
-  - 
+  - JSX uses components that contain markup and logic statements
+  - Valid JS can be placed inside of curly braces within the JSX
+  - JSX produces React "elements"
+  - JSX can be helpful when needing a visual when working with a UI inside of JS
+  - JSX allows React to show/utilize more useful error and warning messages
+  - JSX is itself an expression and can be used to call functions and objects
+  - JSX can contain children such as li and ul
+  - Using React.createElement(), you can represent objects in JSX.
+
+## 
