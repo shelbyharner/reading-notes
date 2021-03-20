@@ -10,4 +10,17 @@
   - You can put any JS expression inside of JSX braces. 
 
 ## Hello World
+  - JSX is a syntax extension of JS that creates React Elements
+  - The pieces of React apps: elements and components
+  - No more console.log(), this is a new proof of life
+
+```` javascript
+
+ReactDOM.render(
+  <h1>Hello, world!</h1>,
+  document.getElementById('root')
+);
+````
+
+## Introducing JSX
   - 
