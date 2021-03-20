@@ -32,4 +32,16 @@ ReactDOM.render(
   - JSX can contain children such as li and ul
   - Using React.createElement(), you can represent objects in JSX.
 
-## 
+## Rendering Elements
+  - An element describes what you want to see on the screen. 
+  - React elements are plain objects.
+  - A "root" DOM node is managed by React DOM.
+  - Applications built with just React only use a single DOM root node. 
+  - If you are integrating React into an existing application, you may have many root DOM nodes as needed.
+
+  ````javascript
+const element = <h1>Greetings, Earthlings!</h1>;
+ReactDOM.render(element, document.getElementById('root'));
+````
+  - You cannot change elements once they are created.
+    - If you need to update, you must create new elements and pass them in.
