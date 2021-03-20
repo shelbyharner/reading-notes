@@ -1,5 +1,8 @@
 # Shelby's reading-notes
 
+## Code 301 Reading Notes Table of Contents
+  - [**Class 1** - Introduction to React and Components](class01.md)
+
 ## Code 201 Reading Notes Table of Contents
   - [**Read 1** - Introductory HTML and JavaScript](class-01.md)
   - [**Read 2** - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
