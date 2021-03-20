@@ -45,3 +45,8 @@ ReactDOM.render(element, document.getElementById('root'));
 ````
   - You cannot change elements once they are created.
     - If you need to update, you must create new elements and pass them in.
+
+## Components and Props
+  - Components let you split up the UI into independent, reusable pieces and think about each in isolation. 
+  - Components are like JS functions, they take in "props" and return React elements that describe what should appear on the screen
+  
