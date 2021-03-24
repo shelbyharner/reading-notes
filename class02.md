@@ -54,4 +54,21 @@ class Clock extends React.Component {
   - You must bind events in React
 
 ## Conditional Rendering
-  - 
+  - Conditional rendering works the same way that conditions do in JS
+  - Use "if" or the conditional operator to create elements representing the current state, React updates the UI to match
+  - You can use variables to store elements
+  - You can embed expressions in JSX by wrapping them in curly braces, this includes JS logical && operator
+  - Another method for conditional rendering of elements is: condition ? true : false
+  - You can utilize "return null" to hide a component even though it was rendered from anothe component
+
+## Intro to React
+  - React is a declarative, efficient, and flexible JS library for building interfaces
+  - Composes UIs from small, isolated pieces called components
+  - Components take in "props" (short for properties)
+  - Components are viewed via the render method
+  - React components have a state like setting by using this.state
+  - When you call setState in a component, React updates the child components too
+
+Save:
+https://react-bootstrap.github.io/
+https://www.netlify.com/
