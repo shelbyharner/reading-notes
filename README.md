@@ -3,7 +3,10 @@
 ## Code 301 Reading Notes Table of Contents
   - [**Class 1** - Introduction to React and Components](class01.md)
   - [**Class 2** - State and Props](class02.md)
-  - [**Class 2** - Passing Functions as Props](class03.md)
+  - [**Class 3** - Passing Functions as Props](class03.md)
+  - [**Class 4** - React and Forms](class04.md)
+  - [**Class 5** - Putting it all together](class05.md)
+  - [**Class 6** - NODE.JS](class06.md)
 
 ## Code 201 Reading Notes Table of Contents
   - [**Read 1** - Introductory HTML and JavaScript](class-01.md)
