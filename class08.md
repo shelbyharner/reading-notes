@@ -1,0 +1,26 @@
+# APIs
+
+  - Any client should be able to call an API regardless of implementation.
+  - APIs have standard protocols and mechanisms that the client and web service agree upon the format of data exchange.
+  - Web APIs should be able to evolve and add functionality and be fully discoverable.
+  - REST: Representational State Transfer
+    - an architectural style for building distrubuted systems based on hypermedia.
+  - REST over HTTP uses open standards and does not bind the implementation of the API or the client applications to anything specific.
+  - REST APIs are designed around resources, any kind of object, data or service that can be accessed by the client.
+  - Many APIs use JSON as the exchange format.
+  - Organizing the APIs around resources focuses on the business entities that an API exposes.
+  - The purpose of REST is to model entities and operations that can be performed by an application on the entities.
+  - Client should not be exposed to the internal implementation of the API.
+  - Avoid requiring resource URIs more complex than collection/item/collection.
+  - Web requests impose a load on the web server, the more requests the bigger the load.
+  - GET retrieves a representation of the resource at the specified URI. The body of the response message contains the details of the requested resource.
+  - POST creates a new resource at the specified URI. The body of the request message provides the details of the new resource. Note that POST can also be used to trigger operations that don't actually create resources.
+  - PUT either creates or replaces the resource at the specified URI. The body of the request message specifies the resource to be created or updated.
+  - PATCH performs a partial update of a resource. The request body specifies the set of changes to apply to the resource.
+  - DELETE removes the resource at the specified URI.
+  - Sometimes a Post, Put, Patch, or Delete operation may require processing that takes a long time to complete, which creates latency.
+  - Making an operation asynchronous reduces latency.
+  - If a resource contains large, binary fields (images, files) consider enabling the resource to be retrieved in chunks.
+  - REST should make it possible to navigate an entire set of resources without requiring prior knowledge of a URI scheme.
+  - Versioning is necessary as APIs should not remain static.
+  - Implications on performance (ie. caching on the web server) should be considered when selecting versioning.
