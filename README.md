@@ -7,6 +7,8 @@
   - [**Class 4** - React and Forms](class04.md)
   - [**Class 5** - Putting it all together](class05.md)
   - [**Class 6** - NODE.JS](class06.md)
+  - [**Class 7** - REST](class07.md)
+  - [**Class 8** - APIs](class08.md)
 
 ## Code 201 Reading Notes Table of Contents
   - [**Read 1** - Introductory HTML and JavaScript](class-01.md)
