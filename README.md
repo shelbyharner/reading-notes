@@ -9,6 +9,7 @@
   - [**Class 6** - NODE.JS](class06.md)
   - [**Class 7** - REST](class07.md)
   - [**Class 8** - APIs](class08.md)
+  - [**Class 9** - Functional Programming](class09.md)
 
 ## Code 201 Reading Notes Table of Contents
   - [**Read 1** - Introductory HTML and JavaScript](class-01.md)
