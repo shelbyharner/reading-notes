@@ -10,6 +10,9 @@
   - [**Class 7** - REST](class07.md)
   - [**Class 8** - APIs](class08.md)
   - [**Class 9** - Functional Programming](class09.md)
+  - [**Class 10** - In memory storage](class10.md)
+  - [**Class 11** - Authentication](class11.md)
+  - [**Class 12** - Mongo and Mongoose](class12.md)
 
 ## Code 201 Reading Notes Table of Contents
   - [**Read 1** - Introductory HTML and JavaScript](class-01.md)
