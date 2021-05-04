@@ -13,6 +13,8 @@
   - [**Class 10** - In memory storage](class10.md)
   - [**Class 11** - Authentication](class11.md)
   - [**Class 12** - Mongo and Mongoose](class12.md)
+  - [**Class 13** - CRUD](class13.md)
+  - [**Class 14** - Diversity & Inclusion in the Tech Industry](class14.md)
 
 ## Code 201 Reading Notes Table of Contents
   - [**Read 1** - Introductory HTML and JavaScript](class-01.md)
